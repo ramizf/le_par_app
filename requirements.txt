@@ -1,0 +1,15 @@
+pip==22.0.4
+setuptools==60.9.3
+gunicorn
+Flask
+gspread
+google-api-python-client
+google-cloud-storage
+nltk
+opencv-python
+pdf2image==1.16.0
+PyMuPDF==1.19.6
+PyPDF2==1.26.0
+pytesseract==0.3.9
+spacy==2.2.4
+
